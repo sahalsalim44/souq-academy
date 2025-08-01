@@ -16,7 +16,7 @@ export function Footer() {
           <div>
             <div className="flex items-center mb-4">
               <img src={logoPath} alt="SOUQ Academy" className="h-8 w-8 mr-3 rounded-full" />
-              <div className="text-xl font-bold">SOUQ ACADEMY</div>
+              <div className="text-xl font-bold">CODE SOUQ ACADEMY</div>
             </div>
             <p className="text-gray-400">Empowering careers through quality education and industry-relevant training.</p>
           </div>
@@ -52,7 +52,7 @@ export function Footer() {
               <a href="#" className="text-gray-400 hover:text-white transition">
                 <Linkedin className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition">
+              <a href="https://www.instagram.com/codesouqacademy/" className="text-gray-400 hover:text-white transition">
                 <Instagram className="h-6 w-6" />
               </a>
             </div>
@@ -60,7 +60,7 @@ export function Footer() {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 SOUQ ACADEMY. All rights reserved.</p>
+          <p>&copy; 2025 CODE SOUQ ACADEMY. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -148,7 +148,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Transform Your Career with <span className="text-yellow-300">SOUQ ACADEMY</span>
+              Transform Your Career with <span className="text-yellow-300">CODE SOUQ ACADEMY</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
               Master cutting-edge technologies with our comprehensive fullstack courses and land your dream job with 100% placement assistance.
@@ -178,7 +178,7 @@ export default function Home() {
       <section id="about" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Why Choose SOUQ ACADEMY?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Why Choose CODE SOUQ ACADEMY?</h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
               We provide world-class training with industry-relevant curriculum and guaranteed placement support
             </p>
@@ -265,7 +265,7 @@ export default function Home() {
       <section id="hire" className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Hire Through SOUQ ACADEMY</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Hire Through CODE SOUQ ACADEMY</h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
               Partner with us to find skilled professionals for your organization
             </p>

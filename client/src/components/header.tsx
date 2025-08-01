@@ -48,8 +48,8 @@ export function Header({ onEnrollClick, onBrochureClick }: HeaderProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <img src={logoPath} alt="SOUQ Academy"  className="h-12 w-12 mr-3 rounded-full transform scale-145" />
-            <div className="text-xl font-bold text-primary">SOUQ ACADEMY</div>
+            <img src={logoPath} alt="CODE SOUQ Academy"  className="h-16 w-16 mr-3 rounded-full transform scale-150" />
+            <div className="text-xl font-bold text-primary">CODE SOUQ ACADEMY</div>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
